@@ -1,0 +1,5 @@
+RODAR
+
+  roslaunch my_simulation pista_s.launch
+
+  rosrun projeto1ROB cor.py
